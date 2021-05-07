@@ -5,7 +5,7 @@ Group Members:-
 2. Subodh Halpatrao
 3. Sutej Kulkarni
 
-Guide:- Prof. J.P. Patil
+Project Guide:- Prof. J.P. Patil
 
 
 
